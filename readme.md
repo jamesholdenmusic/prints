@@ -7,3 +7,4 @@ EXPERT SLEEPERS UNDERNEATH CASE - a large, no-screws (holding modules in) modula
 ![the esuc case](expert-sleepers-underneath-case/expert-sleepers-underneath-case(1).jpg)
 
 EURO-KNOBS - a selection of largish knobs that work as a replacement for eg doepfer push on knobs. colour-coding your cutoff and resonance knobs (&etc) saves so much cognitive load, i recommend it.
+![some coloured plastic knobs](euro-knobs/3dknobs.jpg)
