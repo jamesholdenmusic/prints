@@ -5,6 +5,6 @@ front-facing modules are fixed using a latching system - no screws are used to h
 for the speaker modules i used 2x this speaker with a 2x1W amp pcb off ebay that i soldered to a euro power connector.
 https://cpc.farnell.com/visaton/bf-45/loudspeaker-alu-cone-1-8/dp/LS03700?CMP=i-ddd7-00001003
 
-you also need a couple of m3 threaded rods, some square m3 nuts (7mmx7mmx2mm) and the two aluminium L section pieces. i printed the underside parts in clear PLA so i could see the lights flashing.
+you also need a couple of m3 threaded rods, some square m3 nuts (7mmx7mmx2mm) and the two aluminium L section pieces. i printed the underside parts in clear PLA so i could see the lights flashing. optionally some speaker-padding foam helps the sound of the speaker enclosures a bit.
 
 i'm happy with this one, feels solid, the speakers sound good, the layout works - you can route wires through the inside to the digital modules so it ends up nice and tidy.
