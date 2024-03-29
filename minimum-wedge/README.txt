@@ -5,9 +5,9 @@ minimum wedge case!
 - screwless fixing - just lift the T-section that clamps the modules in the middle and lift out modules. larger modules may need to be slid in from the end, but the ends come off easily.
 - uses aluminium channel you can order cheaply online for most of the structure*
 - scaleable width with a rear row for power/utility/expert sleepers/etc
-- open frame makes finding faults easier! (you can't fly with a modular for too long before vibration and bumps start disconnecting power cables for you..)
+- open frame makes finding faults easier! and lost screws fall out rather than rattling round the inside! (you can't fly with a modular for too long before vibration and bumps start disconnecting power cables, loosening screws and nuts and wires for you..)
 
-* below i've put SKUs that you can find on metals4u.co.uk who i used - they them cut to size - but other suppliers may be cheaper.
+* below i've put SKUs for the metal rails that you can find on metals4u.co.uk who i used - they them cut to size - but other suppliers may be cheaper.
 
 
 i made mine 420mm wide (to fit what i wanted for my live setup). the whole case (empty) weighs less than 1kg and holds up to 243HP.
