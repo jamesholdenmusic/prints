@@ -9,6 +9,7 @@ minimum wedge case!
 
 * below i've put SKUs for the metal rails that you can find on metals4u.co.uk who i used - they them cut to size - but other suppliers may be cheaper.
 
+printable parts in the archive are provided as freecad files and stl files.
 
 i made mine 420mm wide (to fit what i wanted for my live setup). the whole case (empty) weighs less than 1kg and holds up to 243HP.
 
