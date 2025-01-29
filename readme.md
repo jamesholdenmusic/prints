@@ -1,5 +1,7 @@
 a dump of everything useful / music-related i ever print or make
 
+TABLET PC - i built a tablet pc around high end desktop parts, mix of 3d print and milled parts from JLC3DP. i'll be using it for live shows (i built one before that's been the last few years touring, this is much better though.) mine has a AMD 9900X and the cooling manages a sustained 135W, cinebench says it's a bit faster than an M1 ultra mac studio (which costs 2x more than i spent on this build). freecad and stl files are there but contact me if you plan on building this one. pics coming soon.
+
 MINIMUM WEDGE - this is the best one so far! a very very light, rigid, open frame modular case design, almost entirely screwless. 2 81HP rows and a back row with optional space for an RME digiface. this is my current tour case.
 ![the front of the minimum wedge case](minimum-wedge/IMG_20240329_142433.jpg)
 ![the back of the minimum wedge case](minimum-wedge/IMG_20240328_170731.jpg)
