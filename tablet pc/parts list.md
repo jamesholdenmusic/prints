@@ -7,6 +7,7 @@ psu: hdplex 250w GAN
 fans: 50mm gelid silent fans eg https://quietpc.co.uk/gel-silent5
 ssd: any
 ram: make sure the're not too tall/bulky
+touchscreen: https://www.waveshare.com/15.6hp-capqled.htm?sku=23016
 
 you'll need a range of screws, including some sligthly hard to find long M3 countersunk ones (accu had what i needed in the uk). i did have to saw the end off one screw to get the right length.
 
