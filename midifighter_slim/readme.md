@@ -13,6 +13,8 @@ there are two parts where you'll want to check your printer tolerances:
 
 i tried a few settings to get the most transparent print i could - in the end large layer height and slightly higher temperature than i expected worked for the cheap transparent filament i had lying around.
 
+for screws i used M3 ones into brass inserts (the kind you heat up with a soldering iron and push in) the ones between the top plate need to be 5mm or less in length. the hole diameter i've allowed is 4.2mm, you can adjust this in the 'sizes' spreadsheet in the freecad file.
+
 # finishing
 
 i bought a sheet of 1.5mm neoprene on ebay which fits perfectly in the base cavity and grips the table really well. you could also use normal self adhesive rubber feet. 
